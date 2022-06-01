@@ -1,0 +1,52 @@
+
+
+/* ==========================================================================
+   Author's custom styles 
+   1-Responsive sm,md,lg
+   2-Colocar un Menu Bar en la parte de arriba inverso Agrupado reducido Docente,Comandante,Grupos(Simbolo Pestaña(Grupo 1,Grupo 2,Grupo 3,...,Grupo 8),Buscar.
+   3-footer botones facebook,twitter, youtube
+   ========================================================================== */
+/*  CONTAINERS*/
+.color1{
+   background-color: #ff4444;
+}
+.color2{
+   background-color: #33b5e5;
+}
+.color3{
+   background-color: #8e44ad;
+}
+.color4{
+   background-color: #2ecc71;
+}
+.app{
+   font-size: 50px;
+}
+/* ICONOS 
+.color1{
+   color: #33b5e5;
+}
+.color2{
+   color: #ff4444;
+}
+.color3{
+   color: #2ecc71;
+}
+.color4{
+   color: #8e44ad;
+}.color5{
+   color: #f39c12;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
